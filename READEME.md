@@ -2,6 +2,8 @@
 
 百度的收录情况只给具体数字，却不说哪个被收录哪个没有。所以有必要根据百度搜索将所有链接提取出来。
 
+[这里](https://blog.stackoverflow.club/article/baidu-search-link/)记录了一些开发过程。
+
 # 使用方法
 
 1. 在`src/get-link.py`中把`domin`改成你自己的域名
