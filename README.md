@@ -9,6 +9,8 @@
 1. 在`src/get-link.py`中把`domin`改成你自己的域名
 2. 运行`python get-link.py`，会有结果打印出来
 
+![2358](http://images.stackoverflow.club/wiki/20190502/2358)
+
 # 坑
 
 1. 提取加密链接
